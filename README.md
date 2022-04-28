@@ -50,7 +50,7 @@ The code has been tested with the following:
 - trimesh `v3.9.18`
 - h5py `3.1.0`
 
-[^1]: A. Moustafa, J. Mattingly, A new optical photon transport model for application to high aspect ratio scintillation pillars," Nuclear Instruments and Methods in Physics Research Section A, p. 166723, 2022. [doi: 10.1016/j.nima.2022.166723].
+[^1]: A. Moustafa and J. Mattingly, A new optical photon transport model for application to high aspect ratio scintillation pillars," Nuclear Instruments and Methods in Physics Research Section A, p. 166723, 2022. [doi:10.1016/j.nima.2022.166723].
 [^2]: E. Roncali, S. R. Cherry, Simulation of light transport in scintillators based on 3D characterization of crystal surfaces, Physics in Medicine and Biology 58 (7) (2013) 2185-2198. [doi:10.1088/0031-9155/58/7/2185].
 [^3]: E. Roncali, M. Stockhoff, S. R. Cherry, An integrated model of scintillator-reector properties for advanced simulations of optical transport, Physics in Medicine and Biology 62 (12) (2017) 4811-4830. [doi:10.1088/1361-6560/aa6ca5].
 [^4]: M. Stockhoff, S. Jan, A. Dubois, S. R. Cherry, E. Roncali, Advanced optical simulation of scintillation detectors in GATEV8.0: first implementation of a reflectance model based on measured data, Physics in Medicine and Biology 62 (12) (2017) 645 L1-L8. [doi:10.1088/1361-6560/aa7007].
@@ -61,6 +61,7 @@ The code has been tested with the following:
 [Embree]: <https://www.embree.org/>
 [pyEmbree]: <https://github.com/scopatz/pyembree>
 [h5py]: <https://www.h5py.org/>
+[doi:10.1016/j.nima.2022.166723]: <https://doi.org/10.1016/j.nima.2022.166723>
 [doi:10.1088/0031-9155/58/7/2185]: <https://dx.doi.org/10.1088/0031-9155/58/7/2185>
 [doi:10.1088/1361-6560/aa6ca5]: <https://dx.doi.org/10.1088/1361-6560/aa6ca5>
 [doi:10.1088/1361-6560/aa7007]: <https://dx.doi.org/10.1088/1361-6560/aa7007>
